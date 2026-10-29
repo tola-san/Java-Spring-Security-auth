@@ -1,0 +1,10 @@
+.git
+.idea
+.vscode
+target
+*.iml
+*.log
+.env
+.env.*
+README.md
+HELP.md
